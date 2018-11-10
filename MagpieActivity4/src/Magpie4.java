@@ -8,8 +8,8 @@
  * Will transform statements as well as react to keywords
  * </li></ul>
  *
- * @author Laurie White
- * @version April 2012
+ * Kai'lani Woodard
+ * Activity IV Magpie Lab
  *
  */
 public class Magpie4 {
